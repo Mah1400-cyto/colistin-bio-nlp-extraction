@@ -1,0 +1,11 @@
+Article Number,Article Title,Bacteria,Resistance Genes,Antibiotic
+1,Resistance Mechanisms of Klebsiella pneumoniae to Colistin,Klebsiella pneumoniae,"mcr-1, mgrB",Colistin
+2,Colistin Resistance in Gram-negative Bacteria,Klebsiella pneumoniae,mcr-1,Colistin
+3,Molecular Basis of Colistin Resistance,Klebsiella pneumoniae,"pmrA, pmrB",Colistin
+4,Epidemiology of Colistin-resistant Bacteria,Klebsiella pneumoniae,"mcr-1, pmrA",Colistin
+5,Therapeutic Strategies against Colistin-resistant Pathogens,Klebsiella pneumoniae,mgrB,Colistin
+6,Colistin Resistance Genes in Clinical Isolates,Klebsiella pneumoniae,"mcr-1, pmrB",Colistin
+7,New Approaches to Overcome Colistin Resistance,Klebsiella pneumoniae,pmrA,Colistin
+8,Genetic Determinants of Colistin Resistance,Klebsiella pneumoniae,"mgrB, pmrB",Colistin
+9,Surveillance of Colistin Resistance in Hospitals,Klebsiella pneumoniae,mcr-1,Colistin
+10,Impact of Colistin Resistance on Treatment Outcomes,Klebsiella pneumoniae,"pmrA, mgrB",Colistin
