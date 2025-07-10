@@ -29,3 +29,27 @@ To assist researchers in identifying potential drug resistance genes for future 
 ## How to cite:
 Please reference this repository in your work using this link:  
 👉 [https://github.com/mahsa-bio-ai/Colistin-NLP-Project](https://github.com/mahsa-bio-ai/Colistin-NLP-Project)
+# Colistin BioNLP Extraction
+
+This repository contains a Natural Language Processing (NLP)-based pipeline for extracting resistance genes and related antibiotics from scientific articles on *Klebsiella pneumoniae* resistance to **Colistin**.
+
+## 🔬 Project Goal
+To identify and organize molecular biomarkers (genes, resistance mechanisms, and antibiotics) mentioned in biomedical literature using Python and AI tools.
+
+## 📁 Repository Content
+- `colistin_extraction.ipynb`: Python notebook for article processing and data extraction
+- `output_colistin.csv`: Final table with extracted genes, antibiotics, and related data
+- `Project_Description.docx`: A brief Word file explaining project steps in English
+
+## 📊 Output Example
+| Article Title | Resistance Gene | Related Antibiotic |
+|---------------|------------------|---------------------|
+| Title 1       | mcr-1            | Colistin            |
+| Title 2       | mgrB             | Colistin            |
+
+## 📚 References
+The data were extracted from 10 peer-reviewed articles using BioNLP methods. For citation, please use this GitHub link.
+
+## 📝 Citation
+If you use this dataset or approach in your research, please cite this repository:
+**https://github.com/Mah1400-cyto/colistin-bio-nlp-extraction**
